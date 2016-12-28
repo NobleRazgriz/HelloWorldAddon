@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: HelloWorld
+## Notes: First Addon
+
+HelloWorld.lua
+HelloWorld.xml
